@@ -35,28 +35,6 @@ CREATE TABLE articles (
     FOREIGN KEY (art_author) REFERENCES users (user_id)
 );
 
--- Cria tabela de comentários nos artigos
-CREATE TABLE comments (
-    cmt_id INT PRIMARY KEY AUTO_INCREMENT,
-    cmt_article INT,
-    cmt_author INT,
-    cmt_comment TEXT,
-    cmt_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    cmt_status ENUM('on', 'off', 'deleted') DEFAULT 'on',
-    FOREIGN KEY (cmt_article) REFERENCES articles (art_id),
-    FOREIGN KEY (cmt_author) REFERENCES users (user_id)
-);
-
--- Cria tabela com contatos do site
-CREATE TABLE contacts (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(127),
-    email VARCHAR(255),
-    subject VARCHAR(255),
-    message TEXT,
-    date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    status ENUM('on', 'off', 'deleted') DEFAULT 'on'
-);
 CREATE TABLE about(
     about_id INT PRIMARY KEY AUTO_INCREMENT,
     about_name VARCHAR(255),

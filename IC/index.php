@@ -59,13 +59,7 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
 
 <section>
 
-    <?php
-
-    // Exibe todos os artigos.
-    echo $artigos;
-
-    ?>
-
+    
 </section>
 
 <aside>
@@ -73,7 +67,7 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
     <?php
 
     //
-    
+
     ?>
 
 </aside>
