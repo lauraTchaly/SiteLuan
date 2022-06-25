@@ -33,7 +33,7 @@ $artigos = '<div class="items">' . "\n";
 while ($artigo = $res->fetch_assoc()) :
 
     // Formata HTML de saída
-    
+
    //AQUI PODE POR OS CÓDIGOS DOS ARTIGOS
 
 endwhile;
@@ -48,7 +48,7 @@ $artigos .= '</div>';
 /**
  * Variável que define o título desta página.
  */
-$title = "- Explorando a mente humana";
+$title = "- Neurociência";
 
 /**
  * Inclui o cabeçalho da página.

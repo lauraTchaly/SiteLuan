@@ -28,7 +28,9 @@
 
         <nav>
 
-            <a href="/" title="Página inicial"><i class="fa-solid fa-circle-info fa-fw"></i><span>Neurociência</span></a>
+        <a href="/sobre/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>sobre</span></a>
+
+            <a href="/" title="Neurociência"><i class="fa-solid fa-circle-info fa-fw"></i><span>Neurociência</span></a>
 
             <a href="/markt" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Marketing</span></a>
 
@@ -42,30 +44,13 @@
 
             <a href="/pop/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Cultura POP</span></a>
 
-            <a href="/contatos/" title="Faça contato"><i class="fa-solid fa-comment-dots fa-fw"></i><span>Contatos</span></a>
-
-            <a href="/sobre/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>sobre</span></a>
 
             <?php
             // Se usuário está logado...
             if ($user) :
 
                 // Exibe foto dele e link para perfil.
-            ?>
-
-                <a href="/user/profile/" title="Perfil"><img src="<?php echo $user['user_photo'] ?>" alt="<?php echo $user['user_name'] ?>"><span>Perfil</a>
-
-            <?php
-
-            // Se usuário não está logado...
-            else :
-
-                // Exibe link para login
-            ?>
-
-                <a href="/user/login/" title="Usuário"><i class="fa-solid fa-right-to-bracket fa-fw"></i><span>Login</span></a>
-
-            <?php
+            
             endif;
             ?>
 
