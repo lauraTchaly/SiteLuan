@@ -28,11 +28,26 @@
 
         <nav>
 
-            <a href="/" title="Página inicial"><i class="fa-solid fa-house-chimney fa-fw"></i><span>Início</span></a>
+            <a href="/" title="Página inicial"><i class="fa-solid fa-house-chimney fa-fw"></i><span>tema 1</span></a>
+            <a href="/tema2/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 2</span></a>
+
+            <a href="/tema3/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 3</span></a>
+
+            <a href="/tema4/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 4</span></a>
+
+            <a href="/tema5/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 5</span></a>
+
+            <a href="/tema6/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 6</span></a>
+
+            <a href="/tema7/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 7</span></a>
+
+            <a href="/tema8/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 8</span></a>
+            
+            <a href="/tema9/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 9</span></a>
 
             <a href="/contatos/" title="Faça contato"><i class="fa-solid fa-comment-dots fa-fw"></i><span>Contatos</span></a>
 
-            <a href="/sobre/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Sobre</span></a>
+            <a href="/sobre/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>sobre</span></a>
 
             <?php
             // Se usuário está logado...
