@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="/favicon.png" type="image/png">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <title>Mind Explorer <?php echo $title ?></title>
+    <title>MindSetting <?php echo $title ?></title>
 </head>
 
 <body>
@@ -22,28 +22,25 @@
 
             <a href="/" title="Página inicial"><i class="fa-solid fa-brain"></i></a>
 
-            <h1>Mind Explorer<small>Explorando a mente humana.</small></h1>
+            <h1>MindSetting</h1>
 
         </header>
 
         <nav>
 
-            <a href="/" title="Página inicial"><i class="fa-solid fa-house-chimney fa-fw"></i><span>tema 1</span></a>
-            <a href="/tema2/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 2</span></a>
+            <a href="/" title="Página inicial"><i class="fa-solid fa-circle-info fa-fw"></i><span>Neurociência</span></a>
 
-            <a href="/tema3/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 3</span></a>
+            <a href="/markt" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Marketing</span></a>
 
-            <a href="/tema4/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 4</span></a>
+            <a href="/IC/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Investigação Criminal</span></a>
 
-            <a href="/tema5/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 5</span></a>
+            <a href="/mentesa/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Mente sã e corpo são</span></a>
 
-            <a href="/tema6/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 6</span></a>
+            <a href="/games/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Games</span></a>
 
-            <a href="/tema7/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 7</span></a>
+            <a href="/cinema/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>História do Cinema</span></a>
 
-            <a href="/tema8/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 8</span></a>
-            
-            <a href="/tema9/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>tema 9</span></a>
+            <a href="/pop/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Cultura POP</span></a>
 
             <a href="/contatos/" title="Faça contato"><i class="fa-solid fa-comment-dots fa-fw"></i><span>Contatos</span></a>
 
