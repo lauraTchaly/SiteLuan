@@ -58,8 +58,7 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
 ?>
 
 <section>
-
-  
+<h1>Marketing</h1>  
 
 </section>
 

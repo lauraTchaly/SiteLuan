@@ -82,7 +82,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background: #006d6d;
+    background:black;
     color: white;
 }
 
@@ -90,7 +90,7 @@ body {
 .wrap>header a {
     font-size: 70px;
     color: white;
-    -webkit-text-stroke: 3px black;
+    -webkit-text-stroke: 3px grey;
     padding-left: .5rem;
     margin-top: -.5rem;
 }
@@ -115,7 +115,7 @@ body {
  */
 
 .wrap>nav {
-    background: #40E0D0;
+    background:rgb(170, 170, 170) ;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -134,7 +134,7 @@ body {
 }
 
 .wrap>nav a:hover {
-    color: #006d6d;;
+    color: black;
  
 }
 
@@ -159,7 +159,7 @@ body {
  */
 
 .wrap>footer {
-    background: #006d6d;
+    background: black;
     padding: 1px 0;
     color: white;
     display: flex;
@@ -176,7 +176,7 @@ body {
 
 .wrap>footer a:hover {
     
-    color: #40E0D0;
+    color: grey;
 }
 
 .wrap>footer div {
@@ -506,78 +506,4 @@ form button[id="newPassToggle"] {
 .aside-social-box i {
     font-size: 1.5rem;
     margin-right: .5rem;
-}
-
-
-img{
-    border-radius: 20px;
-    padding: 2px 20px 0px 5px;
-    width: 100%;
-    
-   
-}
-.sobre-post{
-    border-radius: 10px;
-    margin-top: 10px;
-    width: 100%;
-    max-width: 100%;
-    padding: 0px;
-    background-color: #006d6d;
-    box-shadow: 0 1.4rem 8rem rgba(0,0,0 .2);
-    display: flex;
-    align-items: center;
-    
-    
-}
-.sobre-post_title{
-    font-size: 15px;
-    margin: 1.5rem 0 2rem;
-    text-transform: uppercase;
-    color:white;
-}
-.sobre-post_text{
-    margin-right: 10px;
-    margin-bottom: 3rem;
-    font-size: 20px;
-    color: #40E0D0;
-}
-@media screen and (max-width: 900px){
-    img{
-        
-        width: 80%;
-        
-    }
-    .sobre-post{
-        text-align: center;
-        display: block;
-        
-    }
-    .sobre-post_title{
-        text-align: center;
-    }
-    .sobre-post_text{
-        text-align: center;
-    }
- }
- .politica{
-     border-radius: 10px;
-     padding-left: 10px;
-     background-color: #006d6d;
- }
- .politica p{
-     color:#40E0D0;
- }
-.politica h2{
-    color:white;
-}
-.politica h3{
-    color:white;
-}
-.politica ul{
-    color:#40E0D0;
-}.politica li{
-    color:#40E0D0;
-}
-.politica a{
-     color:white;
 }
