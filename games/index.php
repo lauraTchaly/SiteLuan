@@ -103,11 +103,15 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
 
 <aside>
 
-    <?php
+<h3 class="h3">Gabriel Ferreira</h3>
+    <h4><li>Idade: 16 anos</li>
+    <li>Turno: tarde</li>
+    <li>Turma: 1121</li></h4>
 
-   //
-
-    ?>
+    <h2>Juan</h2>
+    <h4><li>Idade: 15 anos</li>
+    <li>Turno: tarde</li>
+    <li>Turma: 1121</li></h4>
 
 </aside>
 

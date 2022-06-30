@@ -65,11 +65,11 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
 
 <aside>
 
-    <?php
-
-   //
-
-    ?>
+   
+   <h2>Raí Barreto</h2>
+    <h4><li>Idade: 15 anos</li>
+    <li>Turno: tarde</li>
+    <li>Turma: 1121</li></h4>
 
 </aside>
 

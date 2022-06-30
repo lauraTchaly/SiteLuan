@@ -132,11 +132,21 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
 
 <aside>
 
-    <?php
+    <h2>Luan Lucas</h2>
+    <h4 class="h4"><li>Idade: 15 anos</li>
+    <li>Turno: tarde</li>
+    <li>Turma: 1121</li></h4>
 
-   //PODE POR AQUI OS CÒDIGOS PARA OS ARTIGOS MAIS VISITADOS 
+    <h2>Maria Eduarda Brandão</h2>
+    <h4 class="h4"><li>Idade: 15 anos</li>
+    <li>Turno: tarde</li>
+    <li>Turma: 1121</li></h4>
 
-    ?>
+    
+
+   <!-- PODE POR AQUI OS CÒDIGOS PARA OS ARTIGOS MAIS VISITADOS  -->
+
+  
 
 </aside>
 
