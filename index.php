@@ -117,13 +117,14 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
 
 <h5><ul>8. O cérebro em produzir energia suficiente para acender uma lâmpada de 25 watts.</ul></h5>
 
-<h3><li>PONTOS INTERESSANTES:</li></h3>
-<link>https://youtu.be/65w0AEARt60<link> <h5>(podcast com um neuropsiquiatra)</h5>
+<h3><li>PONTOS INTERESSANTES: (Links)</li></h3>
+<ol>
+<h5 class="link"><a href="https://youtu.be/65w0AEARt60">- podcast com um neuropsiquiatra</a></h5>
 <p></p>
-<link>https://youtu.be/alsciIzdUFY(vídeo</link><h5>(explicando a hipnose)</h5>
+<h5 class="link"><a href="https://youtu.be/alsciIzdUFY(vídeo">-explicando a hipnose</a></h5>
 <p></p>
-<link>https://youtu.be/pLqi0EKHVRQ</link> <h5>( matéria de Karl Sagan explicando as dimensões espaciais)</h5>
-
+ <h5 class="link"><a href="https://youtu.be/pLqi0EKHVRQ">- matéria de Karl Sagan explicando as dimensões espaciais</a></h5>
+</ol>
         </p>
     </div>
 </div>    
