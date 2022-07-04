@@ -507,3 +507,67 @@ form button[id="newPassToggle"] {
     font-size: 1.5rem;
     margin-right: .5rem;
 }
+img{
+    border-radius: 20px;
+    padding: 2px 20px 0px 5px;
+    width: 100%;
+    
+   
+}
+.sobre-post{
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 100%;
+    max-width: 100%;
+    padding: 0px;
+    background-color: black;
+    box-shadow: 0 1.4rem 8rem rgba(0,0,0 .2);
+    display: flex;
+    align-items: center;
+    
+    
+}
+.sobre-post_title{
+    font-size: 15px;
+    margin: 1.5rem 0 2rem;
+    text-transform: uppercase;
+    color:white;
+}
+.sobre-post_text{
+    margin-right: 10px;
+    margin-bottom: 3rem;
+    font-size: 20px;
+    color: #40E0D0;
+}
+@media screen and (max-width: 900px){
+    img{
+        
+        width: 80%;
+        
+    }
+    .sobre-post{
+        text-align: center;
+        display: block;
+        
+    }
+    
+    .sobre-post_title{
+        text-align: center;
+    }
+    .sobre-post_text{
+        text-align: center;
+    }
+ }
+h3{
+    color: white;
+}
+h5{
+    color:grey;
+}
+h1{
+    color:white;
+}
+.h3{
+    color: black;
+}
+
