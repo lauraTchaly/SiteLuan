@@ -113,7 +113,7 @@ body {
 /**
  * Estilos do menu principal.
  */
-
+ @media (min-width: 768px){
 .wrap>nav {
     background: rgb(170, 170, 170);
     display: flex;
@@ -153,6 +153,7 @@ body {
     display: block;
     border-radius: 50%;
 }
+ }
 
 /**
  * Estilos do rodapé.

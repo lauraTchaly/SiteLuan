@@ -30,19 +30,19 @@
 
         <a href="/sobre/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>sobre</span></a>
 
-            <a href="/" title="Neurociência"><i class="fa-solid fa-circle-info fa-fw"></i><span>Neurociência</span></a>
+            <a href="/" title="Neurociência.."><i class="fa-solid fa-circle-info fa-fw"></i><span>Neurociência</span></a>
 
-            <a href="/markt" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Marketing</span></a>
+            <a href="/markt" title="Marketing.."><i class="fa-solid fa-circle-info fa-fw"></i><span>Marketing</span></a>
 
-            <a href="/IC/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Investigação Criminal</span></a>
+            <a href="/IC/" title="IC.."><i class="fa-solid fa-circle-info fa-fw"></i><span>Investigação Criminal</span></a>
 
-            <a href="/mentesa/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Mente sã e corpo são</span></a>
+            <a href="/mentesa/" title="Bem estar.."><i class="fa-solid fa-circle-info fa-fw"></i><span>Mente sã e corpo são</span></a>
 
-            <a href="/games/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Games</span></a>
+            <a href="/games/" title="Games.."><i class="fa-solid fa-circle-info fa-fw"></i><span>Games</span></a>
 
-            <a href="/cinema/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>História do Cinema</span></a>
+            <a href="/cinema/" title="Cinema.."><i class="fa-solid fa-circle-info fa-fw"></i><span>História do Cinema</span></a>
 
-            <a href="/pop/" title="Sobre..."><i class="fa-solid fa-circle-info fa-fw"></i><span>Cultura POP</span></a>
+            <a href="/pop/" title="Cultura POP.."><i class="fa-solid fa-circle-info fa-fw"></i><span>Cultura POP</span></a>
 
 
             <?php
